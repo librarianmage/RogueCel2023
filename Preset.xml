@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<embarkmodules>
+  <module Class="XRL.CharacterBuilds.Qud.QudPregenModule">
+    <pregens>
+
+      <pregen Name="Books" Genotype="Mutated Human" Tile="books/book_wizard.png" Foreground="r" Detail="w" Background="k">
+        <code>H4sIAAAAAAAAA81WW2/TMBR+36+wIh6zqp2mCZD6UAritqHSVB0S2oOTHCUWjh3Zx0Do8t+x3S7KhVEGrGqkpsn5zuXLucmbE0KCjBbwFZRmUgTPSXA2Go/OxhejZ0Ho0NgwnrbgiYXHW6iQqeGgrfSzfSVk4+8NsKpKcBaflpejeU4VTRDUC+dOjz6a1P1eg5Bo1a68QUhmWkMR8+p0HlmDMiTrbeBpQyokc8PRKJgKMKgoD8nCxJwl76FayS8gpsJw7vl5KilFakncUbOSJ/hQXi+tjwG3JoR1eafuvF4ZpAgpeWMKKtpKgxzuoNr/1+FfpjAy8TFmsENrbwJ32s5nlOSSU3WAzPlKWb/62HLXI7Y3e0VpHY5bAg0cEu+hmc3ttWk9k12v7jL7gWU5kjXzmQ67emuqGBVo1dzn9cC5NB6atMR1+GdBr5nI9MGiLXRlm6sAVNXBYkYlTeB0xQoga6kQvv975Ob55r4Zmfy3GZkhKhYbhKMbkj6zvVOykEygXhiV5FRD2onoVhAqEBnmVv60XYVgljHOsBrIV9JkuQCtB8hbgcA5y0AkMACvGeel/AbKIhcd5FUmnawRtVosoGVUgm+F0/PzjnwJBWXCzlFvB8T2I2duMXT0H2mVzo1GWbAf0ODH1i73MdzbNsKejpzvzUbdLmlV122whOHgBrbuqS9vT14qKew8R7+yeay65FJqiJAqtB1yKRO/l46uNr9huf/o0DNzsd7JsqQPOEHY+81J/RNZpNESDQsAAA==</code>
+        <description>
+{{c|&#249;}} Additional preset by {{r|librarianmage}}
+        </description>
+      </pregen>
+    </pregens>
+  </module>
+
+</embarkmodules>
