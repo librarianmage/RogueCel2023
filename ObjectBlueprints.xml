@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <objects>
   <object Name="RC Talk" Inherits="Book">
-    <part Name="Render" DisplayName="{{W|Remixing the Layer Cake:}} Facilitating fan reinterpretation through Cave of Qud's modular data files" ColorString="&amp;r" RenderString="=" RenderLayer="5" Tile="Items/sw_book_3.bmp" TileColor="&amp;r" DetailColor="w" />
+    <part Name="Render" DisplayName="{{W|Remixing the Layer Cake}}" ColorString="&amp;r" RenderString="=" RenderLayer="5" Tile="Items/sw_book_3.bmp" TileColor="&amp;r" DetailColor="w" />
     <part Name="Book" ID="RemixingTheLayerCake"/>
   </object>
 </objects>
