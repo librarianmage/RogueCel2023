@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
   <book ID="RemixingTheLayerCake" Title="{{W|Remixing the Layer Cake}}">
+    <!-- W/C/c/w -->
     <page>
 
 
@@ -9,12 +10,128 @@
 
 
 
-
                           {{W|Remixing the Layer Cake:}}
-         {{Y|Facilitating fan reinterpretation through Qud's data files}}
+
+                              {{y|Facilitating fan}}
+             {{y|reinterpretaion through Caves of Qud's data files}}
                                      &#xc4;&#xc4;
-                                   {{r|Ray A.}}
+                               {{r|Ray "books" A.}}
                                {{m|@librarianmage}}
+    </page>
+    <page>
+{{C|Caves of Qud}}
+
+{{C|&#x7;}} science fantasy RPG and roguelike epic
+
+{{C|&#x7;}} releasing {{K|(!)}} in 2024 {{K|(!!)}}
+
+{{C|&#x7;}} {{Y|presents a broadly inspectable and extensible engine}}
+  {{C|&#x7;}} Data files
+  {{C|&#x7;}} C# scripting
+  {{C|&#x7;}} Harmony patches
+    </page>
+    <page>
+{{c|A brief overview of Caves of Qud's data files}}
+
+{{c|&#x7;}} primarily XML (some JSON)
+
+{{c|&#x7;}} structure
+  {{c|&#x7;}} inheritance
+  {{c|&#x7;}} merging
+  {{C|&#x7;}} mixins (objects only)
+
+{{c|&#x7;}} escape hatches to C# for functionality (parts)
+
+    </page>
+    <page>
+{{w|An (incomplete) list of things that are defined (in part) by data files}}
+
+{{w|&#x7;}} game objects
+  {{w|&#x7;}} items
+  {{w|&#x7;}} creatures
+
+{{w|&#x7;}} conversations
+
+{{w|&#x7;}} quests
+
+{{w|&#x7;}} population tables
+
+{{w|&#x7;}} factions
+
+{{w|&#x7;}} books
+
+{{w|&#x7;}} player presets
+
+{{w|&#x7;}} genders and pronouns
+
+{{w|&#x7;}} ...
+    </page>
+    <page>
+{{C|Reinterpretation}}
+
+Reinterpretation is the capacity for players to
+
+{{C|&#x7;}} parse,
+
+{{C|&#x7;}} reuse, and
+
+{{C|&#x7;}} transform
+
+a game's data.
+    </page>
+    <page>
+{{c|Data files in wiki work}}
+
+{{c|&#x7;}} data pipeline for game objects
+  {{c|1.}} Data files
+  {{c|2.}} Hagadias
+  {{c|3.}} Qud Blueprint Explorere (QBE)
+  {{c|4.}} Mediawiki Cargo tables
+
+{{c|&#x7;}} updating data is simplified
+
+{{c|&#x7;}} enables data-driven features (Cargo tables)
+
+{{c|&#x7;}} sometimes inconvenient ontology for user-presented content
+
+{{c|&#x7;}} still requires work on behalf of wiki team (Trash Monks)
+    </page>
+    <page>
+{{c|Data files in modding}}
+
+{{c|&#x7;}} useful framework for modding
+  {{c|&#x7;}} robust
+  {{c|&#x7;}} small changes are (usually) simple
+  {{c|&#x7;}} repurposing functionality
+
+{{c|&#x7;}} separates content and functionality
+
+{{c|&#x7;}} sometimes inconvenient ontology (splitting parts)
+
+{{c|&#x7;}} tension between power and comprehensibility
+    </page>
+    <page>
+{{C|Resources}} (https://github.com/librarianmage/RogueCel2023)
+{{c|Learn more}}
+{{c|&#x7;}} {{w|Snapjaw Mages}}, {{y|kernelmethod}}
+  {{K|data modding tutorial}}
+{{c|&#x7;}} {{w|The Qud Survival Guide}}, {{y|EctaFoole}}
+  {{K|data mod}}
+{{c|&#x7;}} {{w|Data-Driven Engines of Qud and Sproggiwood}}, {{y|Brian Bucklew}}
+  {{K|2015 IRDC talk}}
+{{c|&#x7;}} {{w|Caves of Qud Modding Jam: Monster Mash}}
+  {{K|Oct. 27-30, 2023}}
+
+{{c|Miscellanea}}
+{{c|&#x7;}} {{w|Apologia for Game Wikis}}, {{y|Jason Grinblat}}
+  {{K|2021 essay}}
+{{c|&#x7;}} {{w|Creating a Modding System for Roguelikes}}, {{y|George Moromisato}}
+  {{K|2022 Roguelike Celebration talk}}
+{{c|&#x7;}} {{w|Play as in Stage Play}}, {{y|Nic Junius}}
+  {{K|2023 Roguelike Celebration Preview talk}}
+{{c|&#x7;}} {{w|Generating Procedures: Rule and System Generation for
+  Roguelikes}}, {{y|Mike Cook}}
+  {{K|2023 Roguelike Celebration talk}}
     </page>
   </book>
 </books>
