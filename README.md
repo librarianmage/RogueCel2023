@@ -1,6 +1,6 @@
 # Remixing the Layer Cake
 
-This is the code for my Roguelike Celebration 2023 talk, Remixing the Layer Cake: Facilitating fan reinterpretation through Caves of Qud's data files.
+This is the code for my Roguelike Celebration 2023 [talk](https://www.youtube.com/watch?v=n6mKigS_71Y), Remixing the Layer Cake: Facilitating fan reinterpretation through Caves of Qud's data files.
 
 # Resources
 
@@ -16,4 +16,4 @@ This is the code for my Roguelike Celebration 2023 talk, Remixing the Layer Cake
 -   [Apologia for Game Wikis](https://mixedinitiatives.net/blog/apologia-for-game-wikis/), Jason Grinblat (2021 essay)
 -   [Creating a Modding System for Roguelikes](https://www.youtube.com/watch?v=mES03vaZo3U), George Moromisato (2022 Roguelike Celebration talk)
 -   [Play as in Stage Play](https://www.youtube.com/watch?v=cDxL6JoxYQc), Nic Junius (2023 Roguelike Celebration Preview talk)
--   Generating Procedures: Rule and System Generation for Roguelikes (2023 Roguelike Celebration talk)
+-   [Generating Procedures: Rule & System Generation for Roguelikes](https://youtube.com/watch?v=3daNITP9vBc), Mike Cook (2023 Roguelike Celebration talk)
